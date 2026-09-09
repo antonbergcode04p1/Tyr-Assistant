@@ -1,4 +1,4 @@
-# ⚔️ Tyr Ultimate Assistant | God Mode, Infinite Health & Unlimited Money
+# ⚔️ Tyr Ultimate Assistant | God Mode, Infinite Health & Unlimited Money 
 
 ![Tyr Ultimate Assistant Preview](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2445260/597667b77e6465ece1dcc5affd0f94e5dc489491/header.jpg?t=1787666145)
 
